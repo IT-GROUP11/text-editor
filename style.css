@@ -166,7 +166,7 @@ iframe{
 .adaptive{
     display: none;
 }
-@media (max-width:875px) {
+@media (max-width:675px) {
     .adaptive{
         display: block;
     }
